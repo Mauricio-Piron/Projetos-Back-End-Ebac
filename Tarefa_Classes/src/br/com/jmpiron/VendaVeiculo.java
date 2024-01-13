@@ -17,7 +17,7 @@ public class VendaVeiculo {
         Proprietario proprietario = new Proprietario();
         proprietario.cadastratarProprietario("José Maurício");
         proprietario.cadastrarEndereco("Rua Java, n.1, Bairro: EBAC");
-        proprietario.cadastrarCPF("066.953.496-06");
+        proprietario.cadastrarCPF("111.222.333-04");
 
         Veiculo veiculo = new Veiculo();
         veiculo.cadastrarMarca("volkswagen");
