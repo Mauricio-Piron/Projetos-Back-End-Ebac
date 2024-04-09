@@ -1,4 +1,4 @@
-package br.com.mauriciopiron.anotation;
+package br.com.mauriciopiron.Reflections;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
